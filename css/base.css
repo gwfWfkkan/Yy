@@ -1,0 +1,19 @@
+/*
+* @Author: gf880623
+* @Date:   2018-09-26 17:18:24
+* @Last Modified by:   gf880623
+* @Last Modified time: 2018-09-26 17:18:58
+*/
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style: none;
+	font-family: "苹方";
+}
+a{
+	text-decoration: none;
+}
+i{
+	font-style: normal;
+}

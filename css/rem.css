@@ -1,0 +1,42 @@
+/*
+* @Author: gf880623
+* @Date:   2018-08-02 12:01:49
+* @Last Modified by:   gf880623
+* @Last Modified time: 2018-09-14 13:37:19
+*/
+	/* 媒体查询：屏幕的最小宽度 */
+	@media screen and (min-width:360px){
+		html{
+			font-size: calc(360/750*100px);
+		}
+	}
+	@media screen and (min-width:375px){
+		html{
+			font-size: calc(375/750*100px);
+		}
+	}
+	@media screen and (min-width:412px){
+		html{
+			font-size: calc(412/750*100px);
+		}
+	}
+	@media screen and (min-width:414px){
+		html{
+			font-size: calc(414/750*100px);
+		}
+	}
+	@media screen and (min-width:750px){
+		html{
+			font-size: calc(750/750*100px);
+		}
+	}
+	@media screen and (min-width:768px){
+		html{
+			font-size: calc(768/750*100px);
+		}
+	}
+	@media screen and (min-width:1024px){
+		html{
+			font-size: calc(1024/750*100px);
+		}
+	}
